@@ -13,6 +13,17 @@ Android app developer offering practical support for app implementation, UI impr
 
 I confirm the technology stack and deliverables for each project before starting, and I describe testing and release status accurately.
 
+## Functional demo projects
+
+These are working browser-based prototypes created as portfolio samples. They are not published Android APKs.
+
+- **Khata Lite — income and expense tracker:** add/delete transactions, search entries, balance summaries, and CSV export. [Open source demo](demos/khata-lite/index.html)
+- **Quick Note — local notes app:** create, edit, search, and delete notes saved in browser local storage. [Open source demo](demos/quick-note/index.html)
+- **Age Calculator — date utility:** calculates age in years, months, and days and shows days until the next birthday. [Open source demo](demos/age-calculator/index.html)
+- [Browse all demos](demos/index.html)
+
+Each demo is a self-contained HTML/CSS/JavaScript project. The source can be opened from GitHub; a live hosted demo requires GitHub Pages or another static hosting service to be enabled.
+
 ## Project showcase
 
 ### Project Intiqon
@@ -26,14 +37,12 @@ The AI Studio page and project README should be checked before describing featur
 ## Certifications
 
 ### Google IT Automation with Python
-Completed November 10, 2025 — Google Career Certificates / Coursera.
-Topics shown on the certificate include Python, Git and GitHub, troubleshooting and debugging, configuration management, cloud concepts, and IT automation.
+Completed November 10, 2025 — Google Career Certificates / Coursera. Topics include Python, Git and GitHub, troubleshooting and debugging, configuration management, cloud concepts, and IT automation.
 
 [Verify certificate](https://coursera.org/verify/professional-cert/Q61EWKUQFGSY)
 
 ### Google Cybersecurity
-Completed November 28, 2025 — Google Career Certificates / Coursera.
-Topics shown on the certificate include cybersecurity foundations, network security, Linux, SQL, security risks and vulnerabilities, SIEM, IDS, and Python automation.
+Completed November 28, 2025 — Google Career Certificates / Coursera. Topics include cybersecurity foundations, network security, Linux, SQL, security risks and vulnerabilities, SIEM, IDS, and Python automation.
 
 [Verify certificate](https://coursera.org/verify/professional-cert/XHUR3FB4N3P8)
 
